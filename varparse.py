@@ -39,25 +39,6 @@ _0x2ed5 = ["use strict", "now", "getTime", "length", "", "substr", "000", "001",
             "-1000px", "1px", "border", "backgroundColor", "push", "join", "ban", "protected_media_url", "fb_disabled",
             "ttcStart", "NqPnfu", "NqpnfuVfNOrggreArgjbex", "_0x90aa"]
 
-''''string = """(function refresh() {
-    if (match[_0x2ed5[219]] && args[_0x2ed5[239]] == true) {
-      return false;
-    }
-    if (args[_0x2ed5[198]] && (!match[_0x2ed5[70]] && !match[_0x2ed5[73]])) {
-      if ($[_0x2ed5[179]](_0x2ed5[240])) {
-        bn = $[_0x2ed5[179]](_0x2ed5[240]);
-      } else {
-        bn = Date[_0x2ed5[1]]();
-        if (args[_0x2ed5[148]] == _0x2ed5[178]) {
-          $[_0x2ed5[194]](_0x2ed5[240], bn);
-        }
-      }
-    }
-    var hasMarkerMid = push();
-    if (!hasMarkerMid && (prev && cur)) {
-      show();
-    }"""'''
-
 
 def get_value_to_replace(parsed):
     global _0x2ed5
@@ -76,4 +57,5 @@ modified_file = filename + ".modified.txt"
 with open(modified_file, 'w') as f:
     f.write(modified)
 
+print("Output:\n")
 print(modified)

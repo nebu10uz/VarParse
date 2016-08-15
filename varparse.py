@@ -1,7 +1,7 @@
 from sys import argv
 import re
 
-__author__ = 'Kelvin'
+__author__ = 'Kelvin Lomboy'
 
 _0x2ed5 = ["use strict", "now", "getTime", "length", "", "substr", "000", "001", "fromCharCode", "concat",
             "hasOwnProperty", "localStorage", "setTime", "; expires=", "toGMTString", "isSupported", "setItem",
